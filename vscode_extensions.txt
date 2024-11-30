@@ -1,0 +1,35 @@
+++ VSCODE Extensions
+
+color highlight 
+
+image preview  
+
+prettier 
+
+live share 
+
+gitlens 
+
+polacode 
+
+codesnap 
+
+eslint 
+
+indent-rainbow 
+
+live server 
+
+auto close tag 
+
+auto rename tag 
+
+material icon theme 
+
+bracket pair colorization 
+
+better comments 
+
+path intellisense 
+
+vscode icons 
