@@ -1,4 +1,7 @@
 ++ VSCODE Extensions
+python
+
+amazon q
 
 color highlight 
 
@@ -33,3 +36,5 @@ better comments
 path intellisense 
 
 vscode icons 
+
+C/C++
