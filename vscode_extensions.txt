@@ -19,4 +19,5 @@ bracket pair colorization
 better comments 
 path intellisense 
 vscode icons 
+live preview
 
